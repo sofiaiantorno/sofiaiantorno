@@ -12,7 +12,7 @@ not just "what will happen?" questions.
 *Estimates the association between city walkability and obesity rates across 120 California cities, adjusting for population, income, education, and land area.*
 - **Methods:** OLS regression, propensity score matching
 - **Tools:** Python
-- **Finding:** OLS estimated obesity rates 1.95 percentage points lower in walkable cities. Propensity matching gave a larger estimate (3.16 points lower) but it was not statistically significant, so the evidence for a robust effect is weak.
+- **Finding:** Walkable California cities had obesity rates 2.75 percentage points lower on average, but the gap disappeared when comparing cities within the same county (−0.3 pp, not significant). Propensity matching was too imprecise to settle the question (−3.2 pp, 95% CI −7.7 to +1.4).
 
 ### Forecasting U.S. Home Price Direction
 *Can macro conditions and recent price trends predict whether real home prices rise over the next quarter?*
