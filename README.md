@@ -8,7 +8,7 @@ not just "what will happen?" questions.
 
 ## Featured Projects
 
-### Does City Walkability Affect Obesity Rates?
+### [Does City Walkability Affect Obesity Rates?](https://github.com/sofiaiantorno/Walkability_Obesityrates.git)
 *Estimates the association between city walkability and obesity rates across 120 California cities, adjusting for population, income, education, and land area.*
 - **Methods:** OLS regression, propensity score matching
 - **Tools:** Python
